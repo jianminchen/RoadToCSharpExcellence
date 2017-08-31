@@ -1,5 +1,5 @@
 # RoadToCSharpExcellence
-Prepare to be a master of C# programming language
+Prepare to be a master of C# programming language. How to prepare in more efficient ways? 
 I like to document my growth as a C# programmer. I like to rate myself comfortably 8 or 9 using 1 to 10 ranking, 
 if 6 is the minimum to practice C# as a professional programmer. Extra 2 points I like to work on are C# code standards, 
 object oriented programming, C# advanced features, C# common interview questions, from my viewpoints today 8/31/2017. 
