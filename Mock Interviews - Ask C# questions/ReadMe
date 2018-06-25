@@ -1,0 +1,5 @@
+June 23, 2018
+
+I wrote a sudoku solver algorithm, and I asked myself if HashSet class has a Remove API or not. I know that it is time for me to memorize all API of HashSet<char>. 
+
+I start to read HashSet class and learn things quickly. 
