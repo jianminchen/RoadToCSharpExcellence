@@ -1,6 +1,9 @@
 June 23, 2018
 
 I wrote a sudoku solver algorithm, and I asked myself if HashSet class has a Remove API or not. I know that it is time for me to memorize all API of HashSet<char>. 
+Here is my Sudoku solver practice. 
+https://github.com/jianminchen/Mock-interviews/blob/master/jianminchen.erica%20June%2016%20-/SudokuSolver.cs
+It is my over 10th practice. It feels so good since I can memorize the solution so clearly for each step including backtracking, recursive, and also every variable name I should declare. Practice often definitely helps me to gain confidence on this classical algorithm.
 
 I start to read HashSet class and learn things quickly. I also had chance to go over interface IEqualityComparer with an example:
 https://github.com/jianminchen/RoadToCSharpExcellence/blob/master/Mock%20Interviews%20-%20Ask%20C%23%20questions/IEqualityComparerExample.cs
