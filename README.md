@@ -9,5 +9,9 @@ a small manufacturer company called MP Lighting Inc.
 
 I like to set up a goal to improve my C# programming day by day. 
 
+Here is the blog I documented how I learn C# by reading a book C# tutorial:
+
+http://juliachencoding.blogspot.com/2017/09/c-tutorial.html
+
 Here are the blogs I wrote related to C# 2000 things:
 http://juliachencoding.blogspot.com/search?q=C%23+2000+things
