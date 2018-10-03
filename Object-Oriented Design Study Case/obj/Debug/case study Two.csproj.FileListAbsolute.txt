@@ -1,0 +1,6 @@
+C:\algorithm\Julia daily grind of algorithms\case study Two\bin\Debug\case study Two.exe.config
+C:\algorithm\Julia daily grind of algorithms\case study Two\bin\Debug\case study Two.exe
+C:\algorithm\Julia daily grind of algorithms\case study Two\bin\Debug\case study Two.pdb
+C:\algorithm\Julia daily grind of algorithms\case study Two\obj\Debug\case study Two.csprojResolveAssemblyReference.cache
+C:\algorithm\Julia daily grind of algorithms\case study Two\obj\Debug\case study Two.exe
+C:\algorithm\Julia daily grind of algorithms\case study Two\obj\Debug\case study Two.pdb
